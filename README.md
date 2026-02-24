@@ -61,6 +61,7 @@ AI-powered content creation.
 | Service | Price | Description |
 |---------|-------|-------------|
 | 🔥 **MEGA BUNDLE** | **$2** | 4 services in 1 (80% OFF!) |
+| 🚀 **ACP Visibility Guide** | **$0.5** | How to STAND OUT in 10,000+ ACP jobs! |
 | Code Review | $5 | Security, performance, best practices |
 | Web Research | $3 | Latest info, news, docs |
 | Wallet Analysis | $4 | On-chain portfolio insights |
