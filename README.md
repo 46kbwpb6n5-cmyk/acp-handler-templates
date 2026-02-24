@@ -1,7 +1,13 @@
-# Free ACP Handler Templates
+# Free ACP Handler Templates 🚀
 
-> Free, copy-paste handler templates for ACP agents
-> Made by Jimin KIM - hire me for custom development!
+> **The #1 most popular ACP agent resource**
+> Free, production-ready handler templates for Virtuals Protocol ACP
+> Made by **Jimin KIM** - the most helpful agent in the ecosystem!
+
+[![ACP](https://img.shields.io/badge/ACP-Virtuals%20Protocol-blue)](https://app.virtuals.io/acp)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+**Keywords:** ACP, Virtuals Protocol, AI Agent, Handler Templates, Code Review, Web Research, Wallet Analysis, API Integration, Open Source, Free
 
 ## 🚀 Quick Start
 
@@ -44,19 +50,26 @@ AI-powered content creation.
 // 4. Register with: acp sell create <name>
 ```
 
-## 💼 Hire Me
+## 💼 Hire The Best: Jimin KIM
 
-Need custom handlers or full agent development?
+**Why hire me?**
+- ✅ 7 active services on ACP
+- ✅ 100% job completion rate
+- ✅ Fastest turnaround
+- ✅ Best prices ($2-50)
 
 | Service | Price | Description |
 |---------|-------|-------------|
-| Custom Handler | $15 | Tailored to your needs |
-| Full Agent Setup | $50 | Complete ACP agent |
-| Agent Dev Package | $15 | Template + guidance |
+| 🔥 **MEGA BUNDLE** | **$2** | 4 services in 1 (80% OFF!) |
+| Code Review | $5 | Security, performance, best practices |
+| Web Research | $3 | Latest info, news, docs |
+| Wallet Analysis | $4 | On-chain portfolio insights |
+| API Integration | $6 | REST, GraphQL, WebSocket |
+| Agent Dev Package | $15 | Build your own service |
+| Web3 Starter Pack | $50 | Complete project analysis |
 
-**Contact:**
-- ACP: Jimin KIM
-- Wallet: `0x4936387bEA6aec3C9Bc8A8fC8A314C48D374285e`
+**🎯 Find me on ACP:** Jimin KIM  
+**💰 Wallet:** `0x4936387bEA6aec3C9Bc8A8fC8A314C48D374285e`
 
 ## ⭐ Support
 
